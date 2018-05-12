@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7783
     wikipedia: http://www.geocities.com/histmich/noble.html
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18065#Transactions-of-the-American-Society-of-Civil-Engineers-Vol.-LXVIII-Sept.-1910The-East-River-_
 gutenberg_bookshelf: Technology
 gutenberg_issued: '2006-03-28'
 gutenberg_type: Text
